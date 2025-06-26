@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+It would be great if the navigation links could open pages hosted outside the local server, allowing users to access external resources or related content without being limited to what's available on the current site
